@@ -1,0 +1,78 @@
+@media (min-width:1024px) {
+
+
+    body {
+      background-image: url(../img/bg-main-tablet.png);
+      background-repeat: no-repeat;
+      background-position: left -17.5rem top -10rem;
+      background-size: 100% 100%;
+    }
+  
+    .nav--container {
+      padding: 3em 1.7em;
+    }
+  
+    .container {
+      background-image: url(../img/bg-pattern-1.svg);
+      background-repeat: no-repeat;
+      background-position: top -1rem right -2rem;
+      background-size: 27% 100%;
+    }
+  
+    .header--equalizer .header--equalizer--title {
+      width: 400px;
+      font-size: 3.2em;
+      margin-bottom: 0.2em;
+    }
+  
+    .header--equalizer .header--equalizer-content {
+      width: 477px;
+    }
+  
+    .equalizer--main-content {
+      margin-top: 1.5em;
+      padding: 2em 2.5em;
+    }
+  
+    .equalizer--main-content .black-box {
+      background: url(../img/bg-pattern-2.svg) var(--dark) no-repeat top 0.1rem left 16rem;
+      background-size: 30%;
+      height: 475px;
+      border-radius: 15px;
+    }
+  
+    .black-box .container--img>img {
+      top: -110px;
+      left: 5%;
+    }
+  
+  
+    main {
+      height: 700px;
+    }
+  
+  
+    .equalizer--Eq {
+      position: relative;
+      top: -22rem;
+      left: 26.7rem;
+      width: 40%;
+      height: 475px;
+      padding: 2.1em 2em;
+    }
+  
+    .footer--container {
+      position: relative;
+      padding: 1em 2em 2em 2.7em;
+    }
+  
+    
+  .row-icons {
+    position: absolute;
+    top: 60%;
+    right: 25px;
+  }
+  
+  
+  
+  }

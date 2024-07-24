@@ -1,0 +1,49 @@
+
+@media (min-width:1366px) {
+    .nav--container {
+      padding: 3em 3em;
+    }
+  
+    .header--equalizer {
+      height: 100%;
+      padding: 1em 3em;
+    }
+  
+    .equalizer--main-content {
+      margin-top: 1.5em;
+      padding: 2em 3em;
+    }
+  
+  
+    .footer--container #footer-icon {
+      margin: 2.7em 1.7em;
+    }
+   
+  
+  
+    .footer--container {
+      display: flex;
+      justify-content: space-between;
+      top: 50px;
+    }
+    
+  
+    .equalizer-footer-row {
+      display: flex;
+      align-items: center;
+    }
+  
+    .row-icons {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+  
+    .row-icons>.icon:nth-child(2) {
+      margin: 0 1.5em;
+    }
+    
+  
+    
+  }
+  

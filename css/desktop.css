@@ -1,0 +1,67 @@
+@media (min-width: 1440px) {
+
+    body {
+      background-image: url(../img/bg-main-desktop.png);
+      background-repeat: no-repeat;
+      background-position: left -12rem top -11rem;
+      background-size: 100% ;
+    }
+    .nav--container {
+      padding: 5rem 9rem;
+    }
+  
+    .header--equalizer {
+      padding: 0.1em 7.7rem;
+    }
+    
+  
+    .header--equalizer .header--equalizer--title {
+      width: 450px;
+      font-size: 4em;
+      margin-bottom: 0.5em;
+    }
+  
+    .header--equalizer .header--equalizer-content {
+      width: 630px;
+      line-height: 25px;
+    }
+  
+    .equalizer--main-content {
+      margin-top: 15rem;
+    }
+  
+   
+    .equalizer--main-content .black-box {
+      background: url(../img/bg-pattern-2.svg) var(--dark) no-repeat top 0.1rem left 16.1rem;
+      background-size: 25%;
+    }
+  
+    .row button {
+      width: 350px;
+    }
+    
+  
+    .equalizer--main-content {
+      padding: 3em 9em 0 9em;
+    }
+    
+    #phone {
+      width: 270px;
+    }
+  
+    .equalizer--Eq {
+      position: relative;
+      top: -25rem;
+      left: 33.7rem;
+      width: 30%;
+      height: 475px;
+      padding: 2.5em;
+    }
+  
+    .footer--container {
+      padding: 0 7em;
+    }
+    
+  
+    
+  }
